@@ -65,12 +65,7 @@ The system uses:
    - Recommend top N unseen movies for a given user
 
 ---
-
-## 🚀 How to Run
-```bash
-# Clone the repository
-git clone https://github.com/RehanShaikh-ai/netflix-recommendation-system.git
-cd netflix-recommendation-system
+ 
 ```
 ## **👤 Author**
 
